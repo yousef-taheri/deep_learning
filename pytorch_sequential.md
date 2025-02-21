@@ -47,7 +47,7 @@ The project uses the [Boston Housing dataset](https://archive.ics.uci.edu/ml/mac
 
 ## Files
 
-*   `tp2_pytorch.py`: The main Python script containing the linear regression and neural network implementations.
+*   `pytorch_sequential.py`: The main Python script containing the linear regression and neural network implementations.
 
 ## Dependencies
 
