@@ -84,7 +84,7 @@ The solution consists of the following key components:
 
 ## Code Structure
 
-*   **`amal_tp3.py`:** The main Python script containing the autoencoder implementation, training loop, and data loading logic.
+*   **`autoencoder.py`:** The main Python script containing the autoencoder implementation, training loop, and data loading logic.
 
 ## Key Improvements
 
