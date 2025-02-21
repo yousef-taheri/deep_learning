@@ -96,6 +96,3 @@ The script will output the training loss at specified intervals for each model. 
 *   Evaluate the models on a separate test dataset.
 *   Compare the performance of the custom autograd implementation with the built-in PyTorch functionalities.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
