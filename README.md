@@ -38,7 +38,7 @@ The repository is organized with the following files:
 
 2.  **Installation:**
     ```bash
-    pip install torch numpy
+    pip install -r requirments.txt
     # Install any other dependencies as specified in the individual README files.
     ```
 
